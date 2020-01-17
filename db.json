@@ -1,0 +1,25 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "author":"John Doe",
+        "image":"https://www.dw.com/image/50700924_303.jpg",
+        "title": "HOW YOGA IMPROVE YOURSTRENGHT",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores reprehenderit minus maxime, dolorum corporis consequuntur voluptatem fugit doloribus. Dignissimos magni, eligendi autem dicta non nulla natus accusantium unde numquam cum?"
+      },
+      {
+        "id": 2,
+        "author":"Samantha",
+        "image":"https://www.dw.com/image/50700924_303.jpg",
+        "title": "HOW YOGA ",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores reprehenderit minus maxime, dolorum corporis consequuntur voluptatem fugit doloribus. Dignissimos magni, eligendi autem dicta non nulla natus accusantium unde numquam cum?"
+      },
+      {
+        "id": 3,
+        "author":"Samantha",
+        "image":"https://www.dw.com/image/50700924_303.jpg",
+        "title": "HOW YOGA ",
+        "content": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Asperiores reprehenderit minus maxime, dolorum corporis consequuntur voluptatem fugit doloribus. Dignissimos magni, eligendi autem dicta non nulla natus accusantium unde numquam cum?"
+      }
+    ]
+  }
